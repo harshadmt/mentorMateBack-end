@@ -1,4 +1,4 @@
-const messageService = require('../services/MessageServices/messageServices');
+const messageService = require('../Services/MessageServices/messageServices');
 const mongoose = require('mongoose');
 const  NotificationService = require('../Services/NotifactionServices/notificationservice')
 const Message = require('../models/MessageModel');
